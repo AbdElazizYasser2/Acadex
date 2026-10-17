@@ -1,4 +1,4 @@
-# Unicore - University Management System API
+# Acadex - University Management System API
 
 Unicore is a robust, scalable, and secure backend API built for managing core university operations. The system handles authentication, role-based access control, academic records, course registrations, doctor schedules, and payment workflows.
 
@@ -35,8 +35,8 @@ Unicore is a robust, scalable, and secure backend API built for managing core un
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/AbdElazizYasser2/University-backend.git](https://github.com/AbdElazizYasser2/University-backend.git)
-cd University-backend
+git clone [git clone https://github.com/AbdElazizYasser2/Acadex.git](git clone https://github.com/AbdElazizYasser2/Acadex.git)
+cd Acadex
 
 ## Project setup
 
